@@ -1,0 +1,8 @@
+{
+  "name": "Excel Master Khmer",
+  "description": "A comprehensive Excel learning platform in Khmer language featuring lessons, exercises, and AI-powered help.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
